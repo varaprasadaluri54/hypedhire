@@ -22,7 +22,7 @@
             </q-toolbar-title>
 
             <div class="gt-sm">
-                <q-btn color="white" style="color: #4A77FF" label="문의하기" />
+                <q-btn style="background: white ; color :  #4A77FF" label="문의하기" />
             </div>
 
             <div>
