@@ -43,6 +43,7 @@
 
 <script setup>
 import { ref } from "vue";
+import EssentialLink from "./EssentialLink.vue";
 
 const linksList = [
     { title: "채용", icon: "school" },
